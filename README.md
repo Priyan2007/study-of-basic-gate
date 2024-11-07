@@ -76,7 +76,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ### RTL REALIZATION OUTPUT
 ![Screenshot 2024-11-07 104159](https://github.com/user-attachments/assets/3bbed405-cd94-4240-90bb-9cdca576d017)
 
-### TIMING OUTPUT
+### TIMING DIAGRAM
 ![Screenshot 2024-11-07 104814](https://github.com/user-attachments/assets/60af09cc-9a99-41c4-96a5-b6c2402faf43)
 
 ### RESULT
